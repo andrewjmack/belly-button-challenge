@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@vscode-logging/logger": "^2.0.0"
+  }
+}
