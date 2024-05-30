@@ -1,5 +1,6 @@
 # belly-button-challenge
-### Andrew Mack  |  University of Denver: Data Analytics  |  May 2024 
+### Andrew Mack  |  University of Denver: Data Analytics  |  May 2024
+### Dashboard URL: https://andrewjmack.github.io/belly-button-challenge/
 
 ## Summary
 This respository contains the files to meet the requirements of the "interactive visualizations" module 14 homework challenge.
